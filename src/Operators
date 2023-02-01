@@ -1,8 +1,33 @@
 
 Operators in Kotlin
 
+*** Arithmetic operators
+
 + --> Add the two number
 - --> Subtract the two number
 * --> Multiply the two number
 / --> Divide the two number
 % --> returns the remainder of the two number
+
+*** Comparison Operators
+
+== --> Equality operator
+!= --> Not equal to
+<  --> Less than
+>  --> Greater than
+<= --> Less than equal to
+>= --> Greater than equal to
+
+*** Assignment operators
+
+= --> assignment
++= --> plus assign
+-= --> minus assign
+*= --> times assign
+/= --> div assign
+%= --> mod assign
+
+*** Increment operator
+
+a++ --> Increment operator
+a-- --> Decrement operator

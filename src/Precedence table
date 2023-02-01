@@ -1,0 +1,7 @@
+Highest  Postfix --> ++ , --
+   |     Prefix --> ++, --
+   |     Multiplicative --> *,/,%
+   |     Additive --> +,-
+   |     Comparison --> <,>,<=,>=
+   |     Equality --> ==
+Lowest   Assignment --> =, +=, -=, /=, *=, %=
