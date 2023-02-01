@@ -1,0 +1,6 @@
+Kotlin REPL --> Kotlin Read eval print loop
+
+In contrast to the compiler
+a REPL evaluates the code you're typing in right after you hit command Enter
+
+You will find it in Tool -> kotlin -> REPL

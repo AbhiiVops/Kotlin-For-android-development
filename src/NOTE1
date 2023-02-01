@@ -1,0 +1,23 @@
+Which of the following features of Kotlin will make your life as a developer better?
+
+* Statically typed, object-oriented, modern-programming language
+* Properties and extensions for classes
+* Created from developer for developers
+* Concise, much less boilerplate code than some other languages
+* increased null safety with nullable and non-nullable data types
+* open sourced
+* Supports lambdas and higher-order functions
+* Fully compatible with the java language, so that you can migrate over time and continue
+using your favorite libraries
+* officially supported for Android development and included with Intellij and Android Studio
+
+Q. The JDK or the JRE?
+The JRE (Java Runtime Environment) is needed for running Java and Kotlin programs.
+The JDK (Java Development Kit), on the other hand, includes the JRE, plus the
+development tools you'll need for writing and running Java programs.
+You need the JDK for writing Kotlin Programs.
+
+To check whether you need to install JDK, in a terminal window, type:
+java -version
+javac -version
+
