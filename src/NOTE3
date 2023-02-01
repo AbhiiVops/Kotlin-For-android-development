@@ -1,0 +1,16 @@
+Target to JVM, Kotlin is a cross-platform statically typed , general purpose programming language with type inference.
+Kotlin is designed to interoperate fully with java but type inference allows its syntax to be more concise. Kotlin is sponsored
+by JetBrains and Google through the Kotlin Foundation
+
+JVM - A Java Virtual Machine is a virtual machine that enables a computer to run Java Programs as well as programs written in other
+      Languages( Kotlin as of here) that are also compiled to java bytecode
+
+Code written in Kotlin  --> Compiled to Java bytecode by the Java compiler --> JVM runs this bytecode and gives the output
+
+Cross platform --> The code written in Windows can also be run in Mac OS and vice versa
+
+Statically typed language --> They do type checking at compile time. This means that the language is able to tell the datatype
+                              of any variable during the compile time and does not allow a variable to have values of different
+                              data type in one program
+
+Type Inference --> This means that the language can automatically detect the data type

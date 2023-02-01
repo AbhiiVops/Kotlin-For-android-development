@@ -1,0 +1,8 @@
+Data Types in Kotlin
+
+--> Int (whole numbers, both positive and negative)
+--> Double (decimal numbers)
+--> Boolean (true or false)
+--> Char ( characters)
+--> String (a sequence of characters)
+--> Float (decimal numbers)

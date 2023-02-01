@@ -1,0 +1,8 @@
+
+Operators in Kotlin
+
++ --> Add the two number
+- --> Subtract the two number
+* --> Multiply the two number
+/ --> Divide the two number
+% --> returns the remainder of the two number

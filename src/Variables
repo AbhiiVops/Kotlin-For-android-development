@@ -1,0 +1,18 @@
+ What are variables?
+/* Variables are like names that are used to store data */
+
+  There are two type of variables in Kotlin
+ /* Var Variables : They are mutable, that is the data stored in them can change
+    Val variables : They are immutables , that is the data stored in them cannot be changed*/
+
+ 1st way of writing variables
+
+ Syntax : Keyword identifier = initialization
+ var identifier = initialization
+ val identifier = initialization
+
+ 2nd way of writing variables
+
+ var identifier: Datatype = initialisation
+ val identifier: Datatype = initialisation
+
