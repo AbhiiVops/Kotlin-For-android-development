@@ -15,10 +15,21 @@ fun main() {
 
  //   var charArray : Array<Char> = arrayOf<Char>('a','b','c','d','e')
 
-     val newArr : Array<Any> = arrayOf("Abhi","dipi")
+     val newArr : Array<Any> = arrayOf("Abhi","dipi",1,'a')
 
      println(newArr)
      println(Arrays.toString(newArr))
+
+
+//     for(i in 1..newArr.size-1) {
+//          print("${newArr[i]}")
+//     }
+
+     for(i in 1 until newArr.size) {   // --> Until keyword can also be used to print the loop
+          print("${newArr[i]}")
+     }
+
+
 }
 
 
@@ -27,3 +38,5 @@ fun main() {
 // Functions we can use in Array
 // size()
 // get()
+
+
